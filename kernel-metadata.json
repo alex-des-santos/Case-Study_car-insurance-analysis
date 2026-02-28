@@ -1,0 +1,15 @@
+{
+  "id": "alexdessantos1/car-insurance-analysis",
+  "title": "Car Insurance Analysis",
+  "code_file": "Car_Insurance_Analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "dataset_sources": [
+    "sagnik1511/car-insurance-data"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
